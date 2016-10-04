@@ -4,10 +4,36 @@ div.image {
   padding-left: 300px;
 }
 div.aaron img{
-  
-  width:100px;
-  height:100px;
+
+  width:250px;
+  height:150px;
 
 
 
+}
+div.aaron{
+  padding-left: 20px;
+  padding-top:20px;
+}
+
+div.linksToWebsite ul{
+  list-style-type: none;
+  margin:0;
+  padding:25px;
+
+
+}
+div.linksToWebsite li a{
+  display: block;
+  text-decoration: none;
+  color:rgb(0,0,0);
+  font-size: 20px;
+
+}
+div.linksToWebsite li a.active{
+   color:rgb(198,200,209);
+
+}
+div.linksToWebsite li a:hover{
+  color:rgb(0,0,0);
 }
