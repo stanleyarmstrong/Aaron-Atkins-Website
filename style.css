@@ -1,19 +1,13 @@
-div.image  img{
-  width: 750px;
-  height: 500px;
-
+div.image {
+  width: 100px;
+  height: 100px;
+  padding-left: 300px;
 }
 div.aaron img{
-
+  
   width:100px;
   height:100px;
 
 
 
-}
-div.aaron{
-  padding:50px;
-}
-div.image{
-  padding-left:200px;
 }
