@@ -37,3 +37,15 @@ div.linksToWebsite li a.active{
 div.linksToWebsite li a:hover{
   color:rgb(0,0,0);
 }
+div.lowerLinks ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 25px;
+}
+div.lowerLinks li a{
+  display: block;
+  text-decoration: none;
+  color:rgb(0,0,0);
+  font-size: 15px;
+
+}
