@@ -49,3 +49,11 @@ div.lowerLinks li a{
   font-size: 15px;
 
 }
+div.image ul{
+  list-style-type: none;
+
+}
+div.image li img{
+  display:block;
+  padding-bottom: 15px;
+}
