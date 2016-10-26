@@ -1,59 +1,11 @@
-div.image {
-  width: 100px;
-  height: 100px;
-  padding-left: 300px;
-}
-div.aaron img{
+div.aaron {
+  color: rgb(255,255,255);
+  background-image: url("https://static1.squarespace.com/static/576f052f15d5dbd84d9b8349/576f2d6d46c3c49b5d0b9862/576f350af5e231ddf3c6449e/1466905867342/aaron+5.jpeg?format=750w");
 
-  width:200px;
-  height:150px;
-
+  padding-bottom: 450px;
 
 
 }
-div.aaron{
-  padding-left: 20px;
-  padding-top:20px;
-}
-
-div.linksToWebsite ul{
-  list-style-type: none;
-  margin:0;
-  padding:25px;
-
-
-}
-div.linksToWebsite li a{
-  display: block;
-  text-decoration: none;
-  color:rgb(0,0,0);
-  font-size: 20px;
-
-}
-div.linksToWebsite li a.active{
-   color:rgb(198,200,209);
-
-}
-div.linksToWebsite li a:hover{
-  color:rgb(0,0,0);
-}
-div.lowerLinks ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 25px;
-}
-div.lowerLinks li a{
-  display: block;
-  text-decoration: none;
-  color:rgb(0,0,0);
-  font-size: 15px;
-
-}
-div.image ul{
-  list-style-type: none;
-
-}
-div.image li img{
-  display:block;
-  padding-bottom: 15px;
+div.aaron h1{
+  text-align: center;
 }
