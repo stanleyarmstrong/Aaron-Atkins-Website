@@ -1,11 +1,10 @@
 div.aaron {
   color: rgb(255,255,255);
   text-align: center;
-  background-image: url("https://static1.squarespace.com/static/576f052f15d5dbd84d9b8349/576f2d6d46c3c49b5d0b9862/576f350af5e231ddf3c6449e/1466905867342/aaron+5.jpeg?format=750w");
-  padding-bottom: 200px;
-  background-size: cover;
 
-  background-repeat: no-repeat;
+
+
+
 }
 div.aaron h1{
   text-align: center;
@@ -14,3 +13,27 @@ div.aaron h1{
 #ambientbackground{
   background-image: url("http://f1b53ed7002b34bfc9b540a53847ee11.cdn.au.ilink247.com/ClientFiles/bbam/BellBoothAdvertisingAndMarketing/Company//Images/TemplateLayoutImages/14/HomePageImages/whiteBackground.jpg");
 }
+/*header{
+    background: url("https://static1.squarespace.com/static/576f052f15d5dbd84d9b8349/576f2d6d46c3c49b5d0b9862/576f350af5e231ddf3c6449e/1466905867342/aaron+5.jpeg?format=750w") no-repeat fixed;
+
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+    background-size:cover; ;
+
+}*/
+
+body{
+  background: url("https://static1.squarespace.com/static/576f052f15d5dbd84d9b8349/576f2d6d46c3c49b5d0b9862/576f350af5e231ddf3c6449e/1466905867342/aaron+5.jpeg?format=750w") no-repeat fixed;
+
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size: cover;
+  background-size:cover; ;
+
+
+}
+.centered-pills{text-align: center;}
+.centered-pills ul.nav-pills{display: inline-block;}
+.centered-pills li{ display: inline;}
+.centered-pills a{float:left;}
