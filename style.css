@@ -1,11 +1,44 @@
 div.aaron {
   color: rgb(255,255,255);
-  background-image: url("https://static1.squarespace.com/static/576f052f15d5dbd84d9b8349/576f2d6d46c3c49b5d0b9862/576f350af5e231ddf3c6449e/1466905867342/aaron+5.jpeg?format=750w");
+  text-align: center;
 
-  padding-bottom: 450px;
+
 
 
 }
 div.aaron h1{
   text-align: center;
+  padding-top: 50px
+}
+/*header{
+    background: url("https://static1.squarespace.com/static/576f052f15d5dbd84d9b8349/576f2d6d46c3c49b5d0b9862/576f350af5e231ddf3c6449e/1466905867342/aaron+5.jpeg?format=750w") no-repeat fixed;
+
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+    background-size:cover; ;
+
+}*/
+
+body{
+  background: url("CCF23102016.jpg") no-repeat fixed;
+  background-repeat: no-repeat fixed;
+
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size: cover;
+  background-size:cover; ;
+
+
+}
+.centered-pills{text-align: center;}
+.centered-pills ul.nav-pills{display: inline-block;}
+.centered-pills li{ display: inline;}
+.centered-pills a{float:left;}
+.nav-pills li.active{
+
+}
+.sun .active a,
+.sun .active a:hover {
+    background-color:#FDB813;
 }
