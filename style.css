@@ -35,10 +35,16 @@ body{
 .centered-pills ul.nav-pills{display: inline-block;}
 .centered-pills li{ display: inline;}
 .centered-pills a{float:left;}
-.nav-pills li.active{
 
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color:rgb(255,266,255);
+
+      background-color:#FDB813;
+    }
+ .nav-pills>li>a:hover{
+  color: rgb(255,255,255);
+  background-color: #003366;
 }
-.sun .active a,
-.sun .active a:hover {
-    background-color:#FDB813;
+.nav-pills>li>a{
+  color:rgb(255,255,255);
 }
