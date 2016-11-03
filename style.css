@@ -40,3 +40,22 @@ body{
 .nav-pills>li>a{
   color:rgb(255,255,255);
 }
+.music{
+  color: rgb(255,255,255);
+  text-decoration: none;
+text-shadow:1px 1px 2px rgb(0,0,0),0 0 25px rgb(255,192,203) , 0 0 5px rgb(255,20,147);
+text-indent: 100px;
+}
+.musics{
+  color: rgb(255,255,255);
+}
+.album-cover{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.buttons{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
